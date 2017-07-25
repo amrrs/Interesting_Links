@@ -9,12 +9,14 @@ Collection of Random Links that I am not sure If I'd find again
 **ML**
 
 * [An Introduction to Support Vector Machines](https://news.ycombinator.com/item?id=14613139)
+* [Effectively using Matplotlib](http://pbpython.com/effective-matplotlib.html)
 * [Anatomy Of Matplotlib](https://github.com/WeatherGod/AnatomyOfMatplotlib)
 * [AI Progress Measurement](https://www.eff.org/ai/metrics)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
 * [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
 * [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
+* [When not to use Deep Learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
 * [Quora Question Pairs - Kaggle Discussion](https://www.kaggle.com/c/quora-question-pairs/discussion/34355#194796)
 
 
@@ -32,7 +34,13 @@ Collection of Random Links that I am not sure If I'd find again
 
 **Quora**
 
-*[How is GloVe different from word2vec](https://www.quora.com/How-is-GloVe-different-from-word2vec) 
+* [How is GloVe different from word2vec](https://www.quora.com/How-is-GloVe-different-from-word2vec) 
+
+**Papers**
+
+* [A systematic comparison of
+context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf)
+
 
 **Blog**
 
