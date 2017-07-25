@@ -10,3 +10,5 @@ Collection of Random Links that I believe would hardly find again
 * [An Introduction to Support Vector Machines](https://news.ycombinator.com/item?id=14613139)
 * [Anatomy Of Matplotlib](https://github.com/WeatherGod/AnatomyOfMatplotlib)
 * [AI Progress Measurement](https://www.eff.org/ai/metrics)
+* [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
+* [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
