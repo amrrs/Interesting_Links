@@ -30,6 +30,10 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [Time is Contagious](http://nautil.us/issue/45/power/time-is-contagious)
 
+**Quora**
+
+*[How is GloVe different from word2vec](https://www.quora.com/How-is-GloVe-different-from-word2vec) 
+
 **Blog**
 
 * [Active Listening - Farnam Street](https://www.farnamstreetblog.com/2017/07/active-listening/)
