@@ -32,12 +32,14 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [Active Listening - Farnam Street](https://www.farnamstreetblog.com/2017/07/active-listening/)
 
-**Figuring out the Category**
-
-* [Calling BullShit](http://callingbullshit.org/videos.html)
 
 **Courses**
 
 * [Course Fast AI](http://course.fast.ai/)
 
+
+**sdfljsdlfjlkdsjf - Figuring out the Category**
+
+* [Calling BullShit](http://callingbullshit.org/videos.html)
+* [The Problem of Induction](https://en.wikipedia.org/wiki/Problem_of_induction)
 
