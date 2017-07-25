@@ -53,6 +53,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 **Blog**
 
 * [Active Listening - Farnam Street](https://www.farnamstreetblog.com/2017/07/active-listening/)
+* [What if AI is a failed dream](https://www.madebymany.com/stories/what-if-ai-is-a-failed-dream)
 
 
 **Courses**
