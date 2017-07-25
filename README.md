@@ -36,4 +36,8 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [Calling BullShit](http://callingbullshit.org/videos.html)
 
+**Courses**
+
+* [Course Fast AI](http://course.fast.ai/)
+
 
