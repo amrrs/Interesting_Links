@@ -2,6 +2,7 @@
 Collection of Random Links that I believe would hardly find again
 
 **Business**
+
 * [Ask HN: Who's running a profitable newsletter?](https://news.ycombinator.com/item?id=14616440)
 * [Ask HN: How much ad revenue you make from your side project?](https://news.ycombinator.com/item?id=14576677)
 
@@ -12,3 +13,13 @@ Collection of Random Links that I believe would hardly find again
 * [AI Progress Measurement](https://www.eff.org/ai/metrics)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
+
+**Podcast**
+
+* [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
+
+**HBR**
+
+* [The Business of Artificial Intelligence](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence)
+
+
