@@ -3,11 +3,12 @@ Collection of Random Links that I am not sure If I'd find again
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-**Business**
+**Ask HN**
 
 * [Ask HN: Who's running a profitable newsletter?](https://news.ycombinator.com/item?id=14616440)
 * [Ask HN: How much ad revenue you make from your side project?](https://news.ycombinator.com/item?id=14576677)
-* [	Ask HN: What tasks do you automate?](https://news.ycombinator.com/item?id=14782332)
+* [Ask HN: What tasks do you automate?](https://news.ycombinator.com/item?id=14782332)
+* [Ask HN: What programming blogs do you follow?](https://news.ycombinator.com/item?id=14842276)
 
 **ML**
 
@@ -50,7 +51,6 @@ Collection of Random Links that I am not sure If I'd find again
 context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf)
 * [On Data Mining in Context:
 Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/library/phdthesisv1_nocropmarks_withISBN.pdf)
-
 
 
 **Blog**
