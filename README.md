@@ -5,6 +5,7 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [Ask HN: Who's running a profitable newsletter?](https://news.ycombinator.com/item?id=14616440)
 * [Ask HN: How much ad revenue you make from your side project?](https://news.ycombinator.com/item?id=14576677)
+* [	Ask HN: What tasks do you automate?](https://news.ycombinator.com/item?id=14782332)
 
 **ML**
 
@@ -18,6 +19,10 @@ Collection of Random Links that I am not sure If I'd find again
 * [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [When not to use Deep Learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
 * [Quora Question Pairs - Kaggle Discussion](https://www.kaggle.com/c/quora-question-pairs/discussion/34355#194796)
+* [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html)
+* [A Gentle introduction to Topic Modelling using R](https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/)
+* [Curated List of AI and ML resources - Unsupervised Methods - Medium](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+* [Data Design](https://infoactive.co/data-design/)
 
 
 **Podcast**
@@ -36,10 +41,13 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [How is GloVe different from word2vec](https://www.quora.com/How-is-GloVe-different-from-word2vec) 
 
-**Papers**
+**Papers/PDFs**
 
 * [A systematic comparison of
 context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf)
+* [On Data Mining in Context:
+Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/library/phdthesisv1_nocropmarks_withISBN.pdf)
+
 
 
 **Blog**
