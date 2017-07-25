@@ -24,6 +24,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Curated List of AI and ML resources - Unsupervised Methods - Medium](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 * [Data Design](https://infoactive.co/data-design/)
 * [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
+* [Interpreting Neurons in an LSTM Network](http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/)
 
 **Podcast**
 
@@ -59,6 +60,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 **Courses**
 
 * [Practical Deep Learning For Coders Course - Fast AI](http://course.fast.ai/)
+* [Introduction, Regression/Classification, Cost Functions, and Gradient Descent - ML Berkeley Crash Course Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 
 
 **sdfljsdlfjlkdsjf - Figuring out the Category**
