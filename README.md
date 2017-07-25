@@ -1,6 +1,8 @@
 # Interesting_Links
 Collection of Random Links that I am not sure If I'd find again
 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
 **Business**
 
 * [Ask HN: Who's running a profitable newsletter?](https://news.ycombinator.com/item?id=14616440)
