@@ -35,7 +35,7 @@ Collection of Random Links that I am not sure If I'd find again
 
 **Courses**
 
-* [Course Fast AI](http://course.fast.ai/)
+* [Practical Deep Learning For Coders Course - Fast AI](http://course.fast.ai/)
 
 
 **sdfljsdlfjlkdsjf - Figuring out the Category**
