@@ -13,6 +13,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [AI Progress Measurement](https://www.eff.org/ai/metrics)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
+* [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
 
 **Podcast**
 
