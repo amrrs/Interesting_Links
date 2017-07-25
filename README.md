@@ -15,6 +15,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
 * [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
 * [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
+* [Quora Question Pairs - Kaggle Discussion](https://www.kaggle.com/c/quora-question-pairs/discussion/34355#194796)
+
 
 **Podcast**
 
