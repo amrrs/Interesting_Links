@@ -22,7 +22,11 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [The Business of Artificial Intelligence](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence)
 
-** Figuring out the Category :( **
+**Blog**
+
+* [Active Listening - Farnam Street](https://www.farnamstreetblog.com/2017/07/active-listening/)
+
+**Figuring out the Category**
 
 * [Calling BullShit](http://callingbullshit.org/videos.html)
 
