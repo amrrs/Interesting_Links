@@ -29,6 +29,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
 * [Interpreting Neurons in an LSTM Network](http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/)
 * [AI Playbook - A16Z](http://aiplaybook.a16z.com/)
+* [Who is best at X - AI Algorithms](https://rodrigob.github.io/are_we_there_yet/build/)
 
 **Podcast**
 
