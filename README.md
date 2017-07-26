@@ -53,6 +53,7 @@ Collection of Random Links that I am not sure If I'd find again
 context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf)
 * [On Data Mining in Context:
 Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/library/phdthesisv1_nocropmarks_withISBN.pdf)
+* [CS229 Stanford Machine Learning Final Year Projects](http://cs229.stanford.edu/projects2013.html)
 
 
 **Blog**
