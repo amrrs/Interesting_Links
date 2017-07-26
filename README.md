@@ -21,7 +21,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [A Gentle introduction to Topic Modelling using R](https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/)
 * [Curated List of AI and ML resources - Unsupervised Methods - Medium](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 * [DSO 530: Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
-
+* [Python Data Science Handbook - Notebook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+* [Intro to ML - Notebook](http://nbviewer.jupyter.org/github/Prooffreader/intro_machine_learning/tree/master/)
 
 **Data**
 
