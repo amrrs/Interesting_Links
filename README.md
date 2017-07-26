@@ -20,6 +20,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html)
 * [A Gentle introduction to Topic Modelling using R](https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/)
 * [Curated List of AI and ML resources - Unsupervised Methods - Medium](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+* [DSO 530: Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
 
 
 **Data**
