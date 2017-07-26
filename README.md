@@ -65,6 +65,10 @@ context-counting vs. context-predicting semantic vectors](http://clic.cimec.unit
 Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/library/phdthesisv1_nocropmarks_withISBN.pdf)
 * [CS229 Stanford Machine Learning Final Year Projects](http://cs229.stanford.edu/projects2013.html)
 
+**Tools**
+
+* [Figma - Prototyping](https://www.figma.com/)
+
 
 **Blog**
 
