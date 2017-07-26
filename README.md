@@ -23,8 +23,9 @@ Collection of Random Links that I am not sure If I'd find again
 
 
 **Data**
+
 *[Enigma Public - Data Collection](https://public.enigma.com/)
-* [Data Design](https://infoactive.co/data-design/)
+*[Data Design](https://infoactive.co/data-design/)
 
 **AI**
 
