@@ -23,6 +23,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [DSO 530: Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
 * [Python Data Science Handbook - Notebook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 * [Intro to ML - Notebook](http://nbviewer.jupyter.org/github/Prooffreader/intro_machine_learning/tree/master/)
+* (http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/) 
 
 **Data**
 
