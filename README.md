@@ -42,6 +42,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Quora Question Pairs - Kaggle Discussion](https://www.kaggle.com/c/quora-question-pairs/discussion/34355#194796)
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Amazing Tensorflow Github Projects - SourceDexter](https://sourcedexter.com/amazing-tensorflow-github-projects/)
+* [ImageNet - The data that transformed AI research—and possibly the world](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/)
 
 **Podcast**
 
