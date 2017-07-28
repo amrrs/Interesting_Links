@@ -79,6 +79,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Active Listening - Farnam Street](https://www.farnamstreetblog.com/2017/07/active-listening/)
 * [What if AI is a failed dream](https://www.madebymany.com/stories/what-if-ai-is-a-failed-dream)
 * [RJ Rowling - ML Blog](http://rnowling.github.io/)
+* [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
 
 
 **Courses**
