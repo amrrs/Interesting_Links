@@ -9,6 +9,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: How much ad revenue you make from your side project?](https://news.ycombinator.com/item?id=14576677)
 * [Ask HN: What tasks do you automate?](https://news.ycombinator.com/item?id=14782332)
 * [Ask HN: What programming blogs do you follow?](https://news.ycombinator.com/item?id=14842276)
+* https://news.ycombinator.com/item?id=13235767
+
 
 **ML**
 
