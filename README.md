@@ -95,4 +95,4 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 
 * [Calling BullShit](http://callingbullshit.org/videos.html)
 * [The Problem of Induction](https://en.wikipedia.org/wiki/Problem_of_induction)
-
+* [List of Common Misconceptions - Wikipedia](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
