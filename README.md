@@ -99,6 +99,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [List of Common Misconceptions - Wikipedia](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 * [The Baader-Meinhof Phenomenon](https://www.damninteresting.com/the-baader-meinhof-phenomenon/)
 * [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)
+* [The Evolution of Trust](http://ncase.me/trust/)
 
 
 **Cricket**
