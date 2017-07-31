@@ -98,3 +98,12 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [List of Common Misconceptions - Wikipedia](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 * [The Baader-Meinhof Phenomenon](https://www.damninteresting.com/the-baader-meinhof-phenomenon/)
 * [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)
+
+
+**Cricket**
+
+* [Being Temba Bavuma](http://www.espncricinfo.com/story/_/id/20192897/firdose-moonda-imagines-temba-bavuma-journey-test-batsman)
+* [The making of Moeen](http://www.thecricketmonthly.com/story/926493/the-making-of-moeen)
+* [Left Arm Lovable - Rangana Herath](http://www.thecricketmonthly.com/story/1056977/left-arm-lovable)
+* [Where will T20 cricket go next? - Jarrod Kimber](http://www.espncricinfo.com/magazine/content/story/1099221.html)
+* [Red Sun Rising](http://www.thecricketmonthly.com/story/1046331/red-sun-rising)
