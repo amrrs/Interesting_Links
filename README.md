@@ -96,3 +96,5 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Calling BullShit](http://callingbullshit.org/videos.html)
 * [The Problem of Induction](https://en.wikipedia.org/wiki/Problem_of_induction)
 * [List of Common Misconceptions - Wikipedia](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+* [The Baader-Meinhof Phenomenon](https://www.damninteresting.com/the-baader-meinhof-phenomenon/)
+* [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)
