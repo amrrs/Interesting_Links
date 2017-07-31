@@ -72,9 +72,11 @@ context-counting vs. context-predicting semantic vectors](http://clic.cimec.unit
 Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/library/phdthesisv1_nocropmarks_withISBN.pdf)
 * [CS229 Stanford Machine Learning Final Year Projects](http://cs229.stanford.edu/projects2013.html)
 
-**Tools**
+**Tools/Scripts**
 
 * [Figma - Prototyping](https://www.figma.com/)
+* [Corporate BS Generator](http://www.atrixnet.com/bs-generator.html)
+* [Self-Help Guru BS Generator](http://sebpearce.com/bullshit/ )
 
 
 **Blog**
@@ -100,6 +102,8 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [The Baader-Meinhof Phenomenon](https://www.damninteresting.com/the-baader-meinhof-phenomenon/)
 * [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)
 * [The Evolution of Trust](http://ncase.me/trust/)
+* [The Case for Shyness - The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/the-case-for-shyness/516933/)
+* [When Things Go Missing - Newyorker](http://www.newyorker.com/magazine/2017/02/13/when-things-go-missing)
 
 
 **Cricket**
