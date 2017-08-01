@@ -77,6 +77,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Figma - Prototyping](https://www.figma.com/)
 * [Corporate BS Generator](http://www.atrixnet.com/bs-generator.html)
 * [Self-Help Guru BS Generator](http://sebpearce.com/bullshit/ )
+* [TensorFire - Fast Neural Styling](https://tenso.rs/demos/fast-neural-style/)
 
 
 **Blog**
