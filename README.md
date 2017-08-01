@@ -104,6 +104,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [The Evolution of Trust](http://ncase.me/trust/)
 * [The Case for Shyness - The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/the-case-for-shyness/516933/)
 * [When Things Go Missing - Newyorker](http://www.newyorker.com/magazine/2017/02/13/when-things-go-missing)
+* [AI Grant - Get $2,500 for your AI project.](https://aigrant.org/)
 
 
 **Cricket**
