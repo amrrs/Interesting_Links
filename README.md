@@ -28,6 +28,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Hill for the data scientist: an xkcd story](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)
 * [Badhessian](http://badhessian.org/)
 * [arXivTimesIndicator - Indicator Dashboard for arXivTimes](http://arxivtimes.herokuapp.com/)
+* [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 
 **Data**
 
