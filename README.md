@@ -27,6 +27,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Intro to ML - Notebook](http://nbviewer.jupyter.org/github/Prooffreader/intro_machine_learning/tree/master/)
 * [Hill for the data scientist: an xkcd story](http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/)
 * [Badhessian](http://badhessian.org/)
+* [arXivTimesIndicator - Indicator Dashboard for arXivTimes](http://arxivtimes.herokuapp.com/)
 
 **Data**
 
