@@ -10,8 +10,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: What tasks do you automate?](https://news.ycombinator.com/item?id=14782332)
 * [Ask HN: What programming blogs do you follow?](https://news.ycombinator.com/item?id=14842276)
 * [Ask HN: Books you read in 2016?](https://news.ycombinator.com/item?id=13235767)
-* 
-https://news.ycombinator.com/item?id=14912468
+* [Ask HN: How to sell your app/side project while working full-time?](https://news.ycombinator.com/item?id=14912468)
 
 **ML**
 
