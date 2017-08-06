@@ -88,7 +88,8 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [What if AI is a failed dream](https://www.madebymany.com/stories/what-if-ai-is-a-failed-dream)
 * [RJ Rowling - ML Blog](http://rnowling.github.io/)
 * [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
-* [How do you draw a circle? We analyzed 100,000 drawings to show how culture shapes our instincts](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/) 
+* [How do you draw a circle? We analyzed 100,000 drawings to show how culture shapes our instincts](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)
+
 
 
 **Courses**
@@ -110,7 +111,8 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [AI Grant - Get $2,500 for your AI project.](https://aigrant.org/)
 * [Optimism Bias](https://en.wikipedia.org/wiki/Optimism_bias)
 * [Operation Luigi: How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
-
+* 
+https://en.m.wikipedia.org/wiki/Name-letter_effect
 
 **Cricket**
 
