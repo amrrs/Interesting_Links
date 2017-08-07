@@ -111,8 +111,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [AI Grant - Get $2,500 for your AI project.](https://aigrant.org/)
 * [Optimism Bias](https://en.wikipedia.org/wiki/Optimism_bias)
 * [Operation Luigi: How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
-* 
-https://en.m.wikipedia.org/wiki/Name-letter_effect
+* [Name-letter effect](https://en.wikipedia.org/wiki/Name-letter_effect)
 
 **Cricket**
 
