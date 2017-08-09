@@ -112,6 +112,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Optimism Bias](https://en.wikipedia.org/wiki/Optimism_bias)
 * [Operation Luigi: How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
 * [Name-letter effect](https://en.wikipedia.org/wiki/Name-letter_effect)
+* [Why Some Companies Need More Tortoises, Not Hares - Knowledge@Wharton](http://knowledge.wharton.upenn.edu/article/companies-need-tortoises-not-hares/)
 
 **Cricket**
 
