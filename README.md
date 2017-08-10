@@ -30,6 +30,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [arXivTimesIndicator - Indicator Dashboard for arXivTimes](http://arxivtimes.herokuapp.com/)
 * [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 
+
+
 **Data**
 
 * [Enigma Public - Data Collection](https://public.enigma.com/)
@@ -38,6 +40,8 @@ Collection of Random Links that I am not sure If I'd find again
 **AI**
 
 * [AI Progress Measurement](https://www.eff.org/ai/metrics)
+
+
 * [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
 * [Interpreting Neurons in an LSTM Network](http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/)
 * [AI Playbook - A16Z](http://aiplaybook.a16z.com/)
@@ -61,6 +65,9 @@ Collection of Random Links that I am not sure If I'd find again
 **Nautilus**
 
 * [Time is Contagious](http://nautil.us/issue/45/power/time-is-contagious)
+
+http://sangaline.com/post/advanced-web-scraping-tutorial/
+
 
 **Quora**
 
