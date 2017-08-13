@@ -103,7 +103,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 
 **Courses**
 
-* [Practical Deep Learning For Coders Course - Fast AI](http://course.fast.ai/)
+* [Practical Deep Learning For Coders- Fast AI](http://course.fast.ai/)
 * [Introduction, Regression/Classification, Cost Functions, and Gradient Descent - ML Berkeley Crash Course Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 
 
@@ -123,6 +123,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Name-letter effect](https://en.wikipedia.org/wiki/Name-letter_effect)
 * [Why Some Companies Need More Tortoises, Not Hares - Knowledge@Wharton](http://knowledge.wharton.upenn.edu/article/companies-need-tortoises-not-hares/)
 * http://nymag.com/scienceofus/2016/12/in-2017-pursue-meaning-instead-of-happiness.html?mid=twitter-share-scienceofus
+* https://mobile.nytimes.com/2017/01/13/sports/squash-mohamed-el-shorbagy.html?smid=tw-share&_r=1&referer=https://mail.google.com/mail/mu/mp/876/
 
 **Cricket**
 
