@@ -100,6 +100,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [RJ Rowling - ML Blog](http://rnowling.github.io/)
 * [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
 * [How do you draw a circle? We analyzed 100,000 drawings to show how culture shapes our instincts](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)
+* [Memories of Kurt Gödel](http://www.rudyrucker.com/blog/2012/08/01/memories-of-kurt-godel/)
 
 
 
