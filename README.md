@@ -82,6 +82,7 @@ context-counting vs. context-predicting semantic vectors](http://clic.cimec.unit
 * [On Data Mining in Context:
 Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/library/phdthesisv1_nocropmarks_withISBN.pdf)
 * [CS229 Stanford Machine Learning Final Year Projects](http://cs229.stanford.edu/projects2013.html)
+* [A Primer on Neural Network Models for Natural Language Processing - Yoav Goldberg ](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
 
 **Tools/Scripts**
 
