@@ -11,8 +11,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: What programming blogs do you follow?](https://news.ycombinator.com/item?id=14842276)
 * [Ask HN: Books you read in 2016?](https://news.ycombinator.com/item?id=13235767)
 * [Ask HN: How to sell your app/side project while working full-time?](https://news.ycombinator.com/item?id=14912468)
-* 
-https://news.ycombinator.com/item?id=14978631
+* [Ask HN: Projects that don't make you money but you're doing it out of sheer joy?](https://news.ycombinator.com/item?id=14978631)
+
 
 **ML**
 
@@ -122,13 +122,14 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Operation Luigi: How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
 * [Name-letter effect](https://en.wikipedia.org/wiki/Name-letter_effect)
 * [Why Some Companies Need More Tortoises, Not Hares - Knowledge@Wharton](http://knowledge.wharton.upenn.edu/article/companies-need-tortoises-not-hares/)
-* http://nymag.com/scienceofus/2016/12/in-2017-pursue-meaning-instead-of-happiness.html?mid=twitter-share-scienceofus
-* https://mobile.nytimes.com/2017/01/13/sports/squash-mohamed-el-shorbagy.html?smid=tw-share&_r=1&referer=https://mail.google.com/mail/mu/mp/876/
+* [In 2017, Pursue Meaning Instead of Happiness](http://nymag.com/scienceofus/2016/12/in-2017-pursue-meaning-instead-of-happiness.html)
 
-**Cricket**
+
+**Cricket/Sports**
 
 * [Being Temba Bavuma](http://www.espncricinfo.com/story/_/id/20192897/firdose-moonda-imagines-temba-bavuma-journey-test-batsman)
 * [The making of Moeen](http://www.thecricketmonthly.com/story/926493/the-making-of-moeen)
 * [Left Arm Lovable - Rangana Herath](http://www.thecricketmonthly.com/story/1056977/left-arm-lovable)
 * [Where will T20 cricket go next? - Jarrod Kimber](http://www.espncricinfo.com/magazine/content/story/1099221.html)
 * [Red Sun Rising](http://www.thecricketmonthly.com/story/1046331/red-sun-rising)
+* [If You Lose the Next Point I’m Sending You to Your Room, Young Man](https://mobile.nytimes.com/2017/01/13/sports/squash-mohamed-el-shorbagy.html)
