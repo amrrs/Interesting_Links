@@ -69,6 +69,16 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [Time is Contagious](http://nautil.us/issue/45/power/time-is-contagious)
 
+**Newyorker**
+
+* [Time Bandits](http://www.newyorker.com/magazine/2005/02/28/time-bandits-2)
+
+**Wired**
+
+* [How My Instagram Hacker Changed My Life](https://www.wired.com/story/how-my-hacker-changed-my-life/)
+
+**Scraping**
+
 http://sangaline.com/post/advanced-web-scraping-tutorial/
 
 
@@ -84,6 +94,7 @@ context-counting vs. context-predicting semantic vectors](http://clic.cimec.unit
 Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/library/phdthesisv1_nocropmarks_withISBN.pdf)
 * [CS229 Stanford Machine Learning Final Year Projects](http://cs229.stanford.edu/projects2013.html)
 * [A Primer on Neural Network Models for Natural Language Processing - Yoav Goldberg ](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
+* [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
 
 **Tools/Scripts**
 
@@ -102,6 +113,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
 * [How do you draw a circle? We analyzed 100,000 drawings to show how culture shapes our instincts](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)
 * [Memories of Kurt Gödel](http://www.rudyrucker.com/blog/2012/08/01/memories-of-kurt-godel/)
+* [Selection bias is the most powerful force in education](https://fredrikdeboer.com/2017/03/29/why-selection-bias-is-the-most-powerful-force-in-education/)
 
 
 
