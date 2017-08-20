@@ -116,6 +116,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Selection bias is the most powerful force in education](https://fredrikdeboer.com/2017/03/29/why-selection-bias-is-the-most-powerful-force-in-education/)
 
 
+* https://stratechery.com/2017/the-uber-dilemma/
 
 **Courses**
 
