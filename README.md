@@ -85,6 +85,7 @@ http://sangaline.com/post/advanced-web-scraping-tutorial/
 **Quora**
 
 * [How is GloVe different from word2vec](https://www.quora.com/How-is-GloVe-different-from-word2vec) 
+* [[Resources] Reading short stories - Deepak Mehta - Quora](https://readersparadise.quora.com/Resources-Reading-short-stories)
 
 **Papers/PDFs**
 
