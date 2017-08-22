@@ -44,8 +44,6 @@ Collection of Random Links that I am not sure If I'd find again
 **AI**
 
 * [AI Progress Measurement](https://www.eff.org/ai/metrics)
-
-
 * [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
 * [Interpreting Neurons in an LSTM Network](http://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/)
 * [AI Playbook - A16Z](http://aiplaybook.a16z.com/)
@@ -57,6 +55,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Amazing Tensorflow Github Projects - SourceDexter](https://sourcedexter.com/amazing-tensorflow-github-projects/)
 * [ImageNet - The data that transformed AI research—and possibly the world](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/)
+* [DeepDive - Stanford](http://deepdive.stanford.edu/)
 
 **Podcast**
 
