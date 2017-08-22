@@ -142,6 +142,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Name-letter effect](https://en.wikipedia.org/wiki/Name-letter_effect)
 * [Why Some Companies Need More Tortoises, Not Hares - Knowledge@Wharton](http://knowledge.wharton.upenn.edu/article/companies-need-tortoises-not-hares/)
 * [In 2017, Pursue Meaning Instead of Happiness](http://nymag.com/scienceofus/2016/12/in-2017-pursue-meaning-instead-of-happiness.html)
+* [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 
 
 **Cricket/Sports**
