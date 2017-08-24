@@ -118,6 +118,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 
 
 * https://stratechery.com/2017/the-uber-dilemma/
+* https://chris.bolin.co/offline/
 
 **Courses**
 
