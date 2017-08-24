@@ -138,6 +138,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [When Things Go Missing - Newyorker](http://www.newyorker.com/magazine/2017/02/13/when-things-go-missing)
 * [AI Grant - Get $2,500 for your AI project.](https://aigrant.org/)
 * [Optimism Bias](https://en.wikipedia.org/wiki/Optimism_bias)
+* https://www.washingtonpost.com/news/parenting/wp/2017/08/24/melinda-gates-i-spent-my-career-in-technology-i-wasnt-prepared-for-its-effect-on-my-kids/?utm_term=.d5cb3960a30e
 * [Operation Luigi: How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
 * [Name-letter effect](https://en.wikipedia.org/wiki/Name-letter_effect)
 * [Why Some Companies Need More Tortoises, Not Hares - Knowledge@Wharton](http://knowledge.wharton.upenn.edu/article/companies-need-tortoises-not-hares/)
