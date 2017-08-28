@@ -1,4 +1,4 @@
- Hhh # Interesting_Links
+# Interesting_Links
 Collection of Random Links that I am not sure If I'd find again
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
@@ -13,8 +13,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: How to sell your app/side project while working full-time?](https://news.ycombinator.com/item?id=14912468)
 * [Ask HN: Projects that don't make you money but you're doing it out of sheer joy?](https://news.ycombinator.com/item?id=14978631)
 * [Ask HN: Self-taught developers, what repo helped land your first job?](https://news.ycombinator.com/item?id=15025578)
-* 
-https://news.ycombinator.com/item?id=15089476
+* [Ask HN: What is your favorite CS paper?](https://news.ycombinator.com/item?id=15089476)
 
 **ML**
 
@@ -34,6 +33,7 @@ https://news.ycombinator.com/item?id=15089476
 * [arXivTimesIndicator - Indicator Dashboard for arXivTimes](http://arxivtimes.herokuapp.com/)
 * [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 * [How we built automated support - Kickstarter](https://kickstarter.engineering/how-we-built-automated-support-f2ea669252f)
+* [Fashion-MNIST Dataset - Zalando](https://github.com/zalandoresearch/fashion-mnist)
 
 
 
