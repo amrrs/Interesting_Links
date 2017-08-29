@@ -34,6 +34,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 * [How we built automated support - Kickstarter](https://kickstarter.engineering/how-we-built-automated-support-f2ea669252f)
 * [Fashion-MNIST Dataset - Zalando](https://github.com/zalandoresearch/fashion-mnist)
+* [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
 
 
 
