@@ -35,6 +35,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [How we built automated support - Kickstarter](https://kickstarter.engineering/how-we-built-automated-support-f2ea669252f)
 * [Fashion-MNIST Dataset - Zalando](https://github.com/zalandoresearch/fashion-mnist)
 * [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
+* [ML Cheatsheet in Python - Github](https://github.com/ShuaiW/ml-cheatsheet)
 
 
 
