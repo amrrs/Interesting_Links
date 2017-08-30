@@ -122,7 +122,8 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [We Have Met the Enemy And He is Us - Lessons from Twenty Years of the Kauffman Foundation’s
 Investments in Venture Capital Funds
 and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/research/2012/05/we-have-met-the-enemy-and-he-is-us)
-
+* 
+http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
 
 * https://stratechery.com/2017/the-uber-dilemma/
 * https://chris.bolin.co/offline/
