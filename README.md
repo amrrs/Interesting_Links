@@ -119,6 +119,9 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [How do you draw a circle? We analyzed 100,000 drawings to show how culture shapes our instincts](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/)
 * [Memories of Kurt Gödel](http://www.rudyrucker.com/blog/2012/08/01/memories-of-kurt-godel/)
 * [Selection bias is the most powerful force in education](https://fredrikdeboer.com/2017/03/29/why-selection-bias-is-the-most-powerful-force-in-education/)
+* [We Have Met the Enemy And He is Us - Lessons from Twenty Years of the Kauffman Foundation’s
+Investments in Venture Capital Funds
+and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/research/2012/05/we-have-met-the-enemy-and-he-is-us)
 
 
 * https://stratechery.com/2017/the-uber-dilemma/
