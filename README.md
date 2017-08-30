@@ -36,6 +36,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Fashion-MNIST Dataset - Zalando](https://github.com/zalandoresearch/fashion-mnist)
 * [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
 * [ML Cheatsheet in Python - Github](https://github.com/ShuaiW/ml-cheatsheet)
+* [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 
