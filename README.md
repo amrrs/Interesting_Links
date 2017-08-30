@@ -37,7 +37,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
 * [ML Cheatsheet in Python - Github](https://github.com/ShuaiW/ml-cheatsheet)
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
+* [Topic Suggestions for Millions of Repositories - Github](https://githubengineering.com/topics/)
 
 
 **Data**
