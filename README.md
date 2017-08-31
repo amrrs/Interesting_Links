@@ -21,8 +21,8 @@ https://news.ycombinator.com/user?id=mike_hearn - Bitcoin
 * 
 
 https://news.ycombinator.com/user?id=gwern - Bitcoin is worse is better 
-
-
+* 
+https://news.ycombinator.com/user?id=happy-go-lucky
 **ML**
 
 * [An Introduction to Support Vector Machines](https://news.ycombinator.com/item?id=14613139)
