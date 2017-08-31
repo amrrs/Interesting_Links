@@ -15,6 +15,14 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: Self-taught developers, what repo helped land your first job?](https://news.ycombinator.com/item?id=15025578)
 * [Ask HN: What is your favorite CS paper?](https://news.ycombinator.com/item?id=15089476)
 
+**HN Profiles**
+* 
+https://news.ycombinator.com/user?id=mike_hearn - Bitcoin 
+* 
+
+https://news.ycombinator.com/user?id=gwern - Bitcoin is worse is better 
+
+
 **ML**
 
 * [An Introduction to Support Vector Machines](https://news.ycombinator.com/item?id=14613139)
