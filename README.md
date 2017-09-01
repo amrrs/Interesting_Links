@@ -16,13 +16,9 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: What is your favorite CS paper?](https://news.ycombinator.com/item?id=15089476)
 
 **HN Profiles**
-* 
-https://news.ycombinator.com/user?id=mike_hearn - Bitcoin 
-* 
+* (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
+* (https://news.ycombinator.com/user?id=gwern) - Bitcoin is worse is better 
 
-https://news.ycombinator.com/user?id=gwern - Bitcoin is worse is better 
-* 
-https://news.ycombinator.com/user?id=happy-go-lucky
 **ML**
 
 * [An Introduction to Support Vector Machines](https://news.ycombinator.com/item?id=14613139)
@@ -68,6 +64,7 @@ https://news.ycombinator.com/user?id=happy-go-lucky
 * [Amazing Tensorflow Github Projects - SourceDexter](https://sourcedexter.com/amazing-tensorflow-github-projects/)
 * [ImageNet - The data that transformed AI research—and possibly the world](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/)
 * [DeepDive - Stanford](http://deepdive.stanford.edu/)
+* [TRANSFER LEARNING IN TENSORFLOW USING A PRE-TRAINED INCEPTION-RESNET-V2 MODEL](https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html)
 
 **Podcast**
 
@@ -91,7 +88,7 @@ https://news.ycombinator.com/user?id=happy-go-lucky
 
 **Scraping**
 
-http://sangaline.com/post/advanced-web-scraping-tutorial/
+* [Advanced Web Scraping Tutorial - Scrapy](http://sangaline.com/post/advanced-web-scraping-tutorial/)
 
 
 **Quora**
@@ -131,11 +128,9 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [We Have Met the Enemy And He is Us - Lessons from Twenty Years of the Kauffman Foundation’s
 Investments in Venture Capital Funds
 and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/research/2012/05/we-have-met-the-enemy-and-he-is-us)
-* 
-http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
-
-* https://stratechery.com/2017/the-uber-dilemma/
-* https://chris.bolin.co/offline/
+* [How not to sort by Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+* [The Uber Dilemma - Stratecherry](https://stratechery.com/2017/the-uber-dilemma/)
+* [Offline](https://chris.bolin.co/offline/)
 
 **Courses**
 
