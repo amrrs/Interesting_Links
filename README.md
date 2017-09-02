@@ -65,6 +65,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [ImageNet - The data that transformed AI research—and possibly the world](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/)
 * [DeepDive - Stanford](http://deepdive.stanford.edu/)
 * [TRANSFER LEARNING IN TENSORFLOW USING A PRE-TRAINED INCEPTION-RESNET-V2 MODEL](https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html)
+* [Where will AGI come from - Andrej Karpathy](https://docs.google.com/presentation/d/119VW6ueBGLQXsw-jGMboGP2-WuOnyMAOYLgd44SL6xM/preview?slide=id.p)
 
 **Podcast**
 
