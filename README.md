@@ -134,6 +134,8 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [How not to sort by Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 * [The Uber Dilemma - Stratecherry](https://stratechery.com/2017/the-uber-dilemma/)
 * [Offline](https://chris.bolin.co/offline/)
+* 
+http://zackkanter.com/2015/01/23/how-ubers-autonomous-cars-will-destroy-10-million-jobs-by-2025/
 
 **Courses**
 
