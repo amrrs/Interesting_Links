@@ -44,7 +44,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Topic Suggestions for Millions of Repositories - Github](https://githubengineering.com/topics/)
 * [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
 * [Advanced Shiny Tips & Tricks](https://github.com/daattali/advanced-shiny#readme)
-
+* [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
 
 **Data**
 
@@ -134,8 +134,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [How not to sort by Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 * [The Uber Dilemma - Stratecherry](https://stratechery.com/2017/the-uber-dilemma/)
 * [Offline](https://chris.bolin.co/offline/)
-* 
-http://zackkanter.com/2015/01/23/how-ubers-autonomous-cars-will-destroy-10-million-jobs-by-2025/
+* [How Uber’s Autonomous Cars Will Destroy 10 Million Jobs and Reshape the Economy by 2025](http://zackkanter.com/2015/01/23/how-ubers-autonomous-cars-will-destroy-10-million-jobs-by-2025/)
 
 **Courses**
 
