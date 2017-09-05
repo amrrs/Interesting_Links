@@ -42,6 +42,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [ML Cheatsheet in Python - Github](https://github.com/ShuaiW/ml-cheatsheet)
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Topic Suggestions for Millions of Repositories - Github](https://githubengineering.com/topics/)
+* [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
 
 
 **Data**
