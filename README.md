@@ -46,6 +46,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
 * [Advanced Shiny Tips & Tricks](https://github.com/daattali/advanced-shiny#readme)
 * [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
+* [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 
 **Data**
 
