@@ -14,6 +14,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: Projects that don't make you money but you're doing it out of sheer joy?](https://news.ycombinator.com/item?id=14978631)
 * [Ask HN: Self-taught developers, what repo helped land your first job?](https://news.ycombinator.com/item?id=15025578)
 * [Ask HN: What is your favorite CS paper?](https://news.ycombinator.com/item?id=15089476)
+* [Ask HN: What books have made the biggest impact on your mental models?](https://news.ycombinator.com/item?id=15155833)
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
