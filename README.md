@@ -15,6 +15,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: Self-taught developers, what repo helped land your first job?](https://news.ycombinator.com/item?id=15025578)
 * [Ask HN: What is your favorite CS paper?](https://news.ycombinator.com/item?id=15089476)
 * [Ask HN: What books have made the biggest impact on your mental models?](https://news.ycombinator.com/item?id=15155833)
+* [Ask HN: Resources for building a programming language?](https://news.ycombinator.com/item?id=15171238)
+
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
