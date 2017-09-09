@@ -49,9 +49,11 @@ Collection of Random Links that I am not sure If I'd find again
 * [Advanced Shiny Tips & Tricks](https://github.com/daattali/advanced-shiny#readme)
 * [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
+* 
+**Data**  
 
-**Data**
-
+* http://martin.varela.fi/post/simple-binary-data-visualization/
+* https://www.dataquest.io/blog/making-538-plots/
 * [Enigma Public - Data Collection](https://public.enigma.com/)
 * [Data Design](https://infoactive.co/data-design/)
 
