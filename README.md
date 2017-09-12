@@ -90,6 +90,7 @@ Collection of Random Links that I am not sure If I'd find again
 **Newyorker**
 
 * [Time Bandits](http://www.newyorker.com/magazine/2005/02/28/time-bandits-2)
+* [A New Way to Learn Economics](https://www.newyorker.com/news/john-cassidy/a-new-way-to-learn-economics)
 
 **Wired**
 
@@ -166,6 +167,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [Why Some Companies Need More Tortoises, Not Hares - Knowledge@Wharton](http://knowledge.wharton.upenn.edu/article/companies-need-tortoises-not-hares/)
 * [In 2017, Pursue Meaning Instead of Happiness](http://nymag.com/scienceofus/2016/12/in-2017-pursue-meaning-instead-of-happiness.html)
 * [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+* [The Economoy - CORE](http://www.core-econ.org/the-economy/)
 
 
 **Cricket/Sports**
