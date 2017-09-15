@@ -53,6 +53,9 @@ Collection of Random Links that I am not sure If I'd find again
 * [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/
+
+
+
 **Data**  
 
 * http://martin.varela.fi/post/simple-binary-data-visualization/
@@ -77,6 +80,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [DeepDive - Stanford](http://deepdive.stanford.edu/)
 * [TRANSFER LEARNING IN TENSORFLOW USING A PRE-TRAINED INCEPTION-RESNET-V2 MODEL](https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html)
 * [Where will AGI come from - Andrej Karpathy](https://docs.google.com/presentation/d/119VW6ueBGLQXsw-jGMboGP2-WuOnyMAOYLgd44SL6xM/preview?slide=id.p)
+* [ML From Scratch - eriklindernoren - Github](https://github.com/eriklindernoren/ML-From-Scratch)
 
 **Podcast**
 
