@@ -150,9 +150,11 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [Offline](https://chris.bolin.co/offline/)
 * [How Uber’s Autonomous Cars Will Destroy 10 Million Jobs and Reshape the Economy by 2025](http://zackkanter.com/2015/01/23/how-ubers-autonomous-cars-will-destroy-10-million-jobs-by-2025/)
 * 
-**Courses**
+
 
 http://thinkingcomplete.blogspot.in/2017/09/what-have-been-greatest-intellectual.html?m=1
+
+**Courses**
 
 * [Practical Deep Learning For Coders- Fast AI](http://course.fast.ai/)
 * [Introduction, Regression/Classification, Cost Functions, and Gradient Descent - ML Berkeley Crash Course Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
