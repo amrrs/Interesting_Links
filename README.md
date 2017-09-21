@@ -149,7 +149,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [The Uber Dilemma - Stratecherry](https://stratechery.com/2017/the-uber-dilemma/)
 * [Offline](https://chris.bolin.co/offline/)
 * [How Uber’s Autonomous Cars Will Destroy 10 Million Jobs and Reshape the Economy by 2025](http://zackkanter.com/2015/01/23/how-ubers-autonomous-cars-will-destroy-10-million-jobs-by-2025/)
-* 
+* https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/
 
 
 http://thinkingcomplete.blogspot.in/2017/09/what-have-been-greatest-intellectual.html?m=1
