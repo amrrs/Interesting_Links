@@ -53,6 +53,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
+* [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
 
 
 
@@ -150,9 +151,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [Offline](https://chris.bolin.co/offline/)
 * [How Uber’s Autonomous Cars Will Destroy 10 Million Jobs and Reshape the Economy by 2025](http://zackkanter.com/2015/01/23/how-ubers-autonomous-cars-will-destroy-10-million-jobs-by-2025/)
 * https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/
-
-
-http://thinkingcomplete.blogspot.in/2017/09/what-have-been-greatest-intellectual.html?m=1
+* http://thinkingcomplete.blogspot.in/2017/09/what-have-been-greatest-intellectual.html?m=1
 
 **Courses**
 
