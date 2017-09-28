@@ -83,6 +83,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Where will AGI come from - Andrej Karpathy](https://docs.google.com/presentation/d/119VW6ueBGLQXsw-jGMboGP2-WuOnyMAOYLgd44SL6xM/preview?slide=id.p)
 * [ML From Scratch - eriklindernoren - Github](https://github.com/eriklindernoren/ML-From-Scratch)
 * [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
+* [Making a Raspberry Pi-powered AI to play piano](https://rpiai.com/piano/)
 
 **Podcast**
 
