@@ -180,7 +180,8 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [In 2017, Pursue Meaning Instead of Happiness](http://nymag.com/scienceofus/2016/12/in-2017-pursue-meaning-instead-of-happiness.html)
 * [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
 * [The Economoy - CORE](http://www.core-econ.org/the-economy/)
-
+* [VLC maintainer has refused “several tens of millions of Euro”](https://www.reddit.com/r/bestof/comments/73dafr/vlc_creator_refused_several_tens_of_millions_of/)
+* [Awesome Blockchains - Github](https://github.com/openblockchains/awesome-blockchains)
 
 **Cricket/Sports**
 
