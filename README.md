@@ -54,8 +54,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
-
-
+* 
+https://veekaybee.github.io/2017/09/26/python-packaging/
 
 **Data**  
 
