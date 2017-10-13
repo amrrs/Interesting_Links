@@ -128,6 +128,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [A Primer on Neural Network Models for Natural Language Processing - Yoav Goldberg ](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
 * [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
 * [Memories of a Theoretical Physicist](https://arxiv.org/pdf/1708.09093.pdf)
+* [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
 
 **Tools/Scripts**
 
