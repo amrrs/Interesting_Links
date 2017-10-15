@@ -58,8 +58,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
 * 
 https://veekaybee.github.io/2017/09/26/python-packaging/
-
-**Data**  
+* https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
+**Data**   
 
 * http://martin.varela.fi/post/simple-binary-data-visualization/
 * https://www.dataquest.io/blog/making-538-plots/
