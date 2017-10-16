@@ -33,7 +33,6 @@ Collection of Random Links that I am not sure If I'd find again
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
 * [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html)
-* [A Gentle introduction to Topic Modelling using R](https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/)
 * [Curated List of AI and ML resources - Unsupervised Methods - Medium](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 * [DSO 530: Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
 * [Python Data Science Handbook - Notebook](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
@@ -49,9 +48,6 @@ Collection of Random Links that I am not sure If I'd find again
 * [Topic Suggestions for Millions of Repositories - Github](https://githubengineering.com/topics/)
 * [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
-* [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
-* [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
-
 * https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
 
 **R**
@@ -61,13 +57,17 @@ Collection of Random Links that I am not sure If I'd find again
 * [Advanced Shiny Tips & Tricks](https://github.com/daattali/advanced-shiny#readme)
 * [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
 * [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
+* [A Gentle introduction to Topic Modelling using R](https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/)
+
 
 **Python**
 
 * [Alice in Python projectland - Python Packaging](https://veekaybee.github.io/2017/09/26/python-packaging/)
 * [Effectively using Matplotlib](http://pbpython.com/effective-matplotlib.html)
 * [Anatomy Of Matplotlib](https://github.com/WeatherGod/AnatomyOfMatplotlib)
+* [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [Python Graph Gallery](https://python-graph-gallery.com/)
+* [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
 
 **Data**   
 
