@@ -46,23 +46,23 @@ Collection of Random Links that I am not sure If I'd find again
 * [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 * [How we built automated support - Kickstarter](https://kickstarter.engineering/how-we-built-automated-support-f2ea669252f)
 * [Fashion-MNIST Dataset - Zalando](https://github.com/zalandoresearch/fashion-mnist)
-* [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
 * [ML Cheatsheet in Python - Github](https://github.com/ShuaiW/ml-cheatsheet)
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Topic Suggestions for Millions of Repositories - Github](https://githubengineering.com/topics/)
-* [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
-* [Advanced Shiny Tips & Tricks](https://github.com/daattali/advanced-shiny#readme)
 * [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
-* 
-https://veekaybee.github.io/2017/09/26/python-packaging/
+* https://veekaybee.github.io/2017/09/26/python-packaging/
 * https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
 
 **R**
 
 * [Deploying Desktop Apps with R](https://oddhypothesis.blogspot.it/2016/04/desktop-deployr.html)
+* [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
+* [Advanced Shiny Tips & Tricks](https://github.com/daattali/advanced-shiny#readme)
+* [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
+* [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
 
 
 **Data**   
@@ -134,7 +134,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [A Primer on Neural Network Models for Natural Language Processing - Yoav Goldberg ](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
 * [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
 * [Memories of a Theoretical Physicist](https://arxiv.org/pdf/1708.09093.pdf)
-* [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
+
 
 **Tools/Scripts**
 
