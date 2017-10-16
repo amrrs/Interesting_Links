@@ -30,8 +30,6 @@ Collection of Random Links that I am not sure If I'd find again
 **ML**
 
 * [An Introduction to Support Vector Machines](https://news.ycombinator.com/item?id=14613139)
-* [Effectively using Matplotlib](http://pbpython.com/effective-matplotlib.html)
-* [Anatomy Of Matplotlib](https://github.com/WeatherGod/AnatomyOfMatplotlib)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 * [A Practical Guide to Tree Based Learning Algorithms](https://sadanand-singh.github.io/posts/treebasedmodels/)
 * [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html)
@@ -53,7 +51,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
-* https://veekaybee.github.io/2017/09/26/python-packaging/
+
 * https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
 
 **R**
@@ -64,6 +62,11 @@ Collection of Random Links that I am not sure If I'd find again
 * [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
 * [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
 
+**Python**
+
+* [Alice in Python projectland - Python Packaging](https://veekaybee.github.io/2017/09/26/python-packaging/)
+* [Effectively using Matplotlib](http://pbpython.com/effective-matplotlib.html)
+* [Anatomy Of Matplotlib](https://github.com/WeatherGod/AnatomyOfMatplotlib)
 
 **Data**   
 
