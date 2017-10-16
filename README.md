@@ -59,6 +59,12 @@ Collection of Random Links that I am not sure If I'd find again
 * 
 https://veekaybee.github.io/2017/09/26/python-packaging/
 * https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
+
+**R**
+
+* [Deploying Desktop Apps with R](https://oddhypothesis.blogspot.it/2016/04/desktop-deployr.html)
+
+
 **Data**   
 
 * http://martin.varela.fi/post/simple-binary-data-visualization/
