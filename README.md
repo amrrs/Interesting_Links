@@ -96,6 +96,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [ML From Scratch - eriklindernoren - Github](https://github.com/eriklindernoren/ML-From-Scratch)
 * [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 * [Making a Raspberry Pi-powered AI to play piano](https://rpiai.com/piano/)
+* [How Machine Learning with TensorFlow Enabled Mobile Proof-Of-Purchase at Coca-Cola](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html)
 
 **Podcast**
 
