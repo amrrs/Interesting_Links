@@ -140,7 +140,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
 * [Memories of a Theoretical Physicist](https://arxiv.org/pdf/1708.09093.pdf)
 * [Growing a Language - Guy Steele](http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf)
-
+* [Charlie Munger – The Psychology of Human Misjudgment ](http://fermatslibrary.com/s/the-psychology-of-human-misdgugement)
 
 **Tools/Scripts**
 
