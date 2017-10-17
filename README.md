@@ -58,6 +58,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [Creates Page Layout Visualizations in R](https://github.com/EmilHvitfeldt/ggpage)
 * [How R Helps Airbnb Make the Most of Its Data](https://peerj.com/preprints/3182.pdf)
 * [A Gentle introduction to Topic Modelling using R](https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/)
+* [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
+* [Convince me to start using R Markdown](https://community.rstudio.com/t/convince-me-to-start-using-r-markdown/1636/17)
 
 
 **Python**
@@ -67,7 +69,6 @@ Collection of Random Links that I am not sure If I'd find again
 * [Anatomy Of Matplotlib](https://github.com/WeatherGod/AnatomyOfMatplotlib)
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [Python Graph Gallery](https://python-graph-gallery.com/)
-* [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
 
 **Data**   
 
