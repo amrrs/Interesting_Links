@@ -49,6 +49,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Becoming a 10x Data Scientist](https://blog.algorithmia.com/becoming-a-10x-data-scientist/)
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
+* [A DATA DRIVEN GUIDE TO BECOMING A CONSISTENT BILLIONAIRE](https://theartandscienceofdata.wordpress.com/2017/06/01/the-billionaire-clusters/)
 
 **R**
 
