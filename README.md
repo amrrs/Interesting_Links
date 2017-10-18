@@ -70,7 +70,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Anatomy Of Matplotlib](https://github.com/WeatherGod/AnatomyOfMatplotlib)
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [Python Graph Gallery](https://python-graph-gallery.com/)
-
+* http://iamtrask.github.io/2015/07/12/basic-python-network/
 **Data**   
 
 * http://martin.varela.fi/post/simple-binary-data-visualization/
