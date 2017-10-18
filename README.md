@@ -130,6 +130,7 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [How is GloVe different from word2vec](https://www.quora.com/How-is-GloVe-different-from-word2vec) 
 * [[Resources] Reading short stories - Deepak Mehta - Quora](https://readersparadise.quora.com/Resources-Reading-short-stories)
+* [If Free Code Camp is free, and Quincy Larson works 100% on Free Code Camp, then how does he support himself and his family?](https://www.quora.com/If-Free-Code-Camp-is-free-and-Quincy-Larson-works-100-on-Free-Code-Camp-then-how-does-he-support-himself-and-his-family)
 
 **Papers/PDFs**
 
