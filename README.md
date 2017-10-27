@@ -71,12 +71,14 @@ Collection of Random Links that I am not sure If I'd find again
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [Python Graph Gallery](https://python-graph-gallery.com/)
 * http://iamtrask.github.io/2015/07/12/basic-python-network/
+
 **Data**   
 
 * http://martin.varela.fi/post/simple-binary-data-visualization/
 * https://www.dataquest.io/blog/making-538-plots/
 * [Enigma Public - Data Collection](https://public.enigma.com/)
 * [Data Design](https://infoactive.co/data-design/)
+* [QA-SRL: Question-Answer Driven Semantic Role Labeling](https://dada.cs.washington.edu/qasrl/)
 
 **AI**
 
