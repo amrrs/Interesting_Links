@@ -71,6 +71,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [XKCD Plots have Landed in Matplotlib!](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/)
 * [Python Graph Gallery](https://python-graph-gallery.com/)
 * http://iamtrask.github.io/2015/07/12/basic-python-network/
+* [Pandas - Comparison with R / R libraries](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
 
 **Data**   
 
