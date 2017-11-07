@@ -17,11 +17,11 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: What books have made the biggest impact on your mental models?](https://news.ycombinator.com/item?id=15155833)
 * [Ask HN: Resources for building a programming language?](https://news.ycombinator.com/item?id=15171238)
 * [Ask HN: Resources to learn blockchain and smart contracts?](https://news.ycombinator.com/item?id=15398550)
-* [Mathematical games interesting to both you and a five-year-old child](https://news.ycombinator.com/item?id=15407761)
 
 **Nice Discussions**
-* [	A New Way to Learn Economics](https://news.ycombinator.com/item?id=15222819)
-
+* [A New Way to Learn Economics](https://news.ycombinator.com/item?id=15222819)
+* [Does anyone remember websites?](https://news.ycombinator.com/item?id=15631565)
+* [Mathematical games interesting to both you and a five-year-old child](https://news.ycombinator.com/item?id=15407761)
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
