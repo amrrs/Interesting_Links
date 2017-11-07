@@ -61,6 +61,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [A Gentle introduction to Topic Modelling using R](https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/)
 * [An R-docker hello world example](https://www.symbolix.com.au/blog-main/r-docker-hello)
 * [Convince me to start using R Markdown](https://community.rstudio.com/t/convince-me-to-start-using-r-markdown/1636/17)
+* [THE LIFE-CHANGING MAGIC OF TIDYING TEXT](https://juliasilge.com/blog/life-changing-magic/)
+* [Word Vectors with Tidy Data Principle](https://juliasilge.com/blog/tidy-word-vectors/)
 
 
 **Python**
