@@ -159,6 +159,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Self-Help Guru BS Generator](http://sebpearce.com/bullshit/ )
 * [TensorFire - Fast Neural Styling](https://tenso.rs/demos/fast-neural-style/)
 * [Tensorport](https://tensorport.com/)
+* [Semantic Role Labeling - AllenNLP](http://demo.allennlp.org/semantic-role-labeling/OTA3)
 
 
 **Blog**
