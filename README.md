@@ -51,6 +51,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [MEET MICHELANGELO: UBER’S MACHINE LEARNING PLATFORM](https://eng.uber.com/michelangelo/)
 * https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
 * [A DATA DRIVEN GUIDE TO BECOMING A CONSISTENT BILLIONAIRE](https://theartandscienceofdata.wordpress.com/2017/06/01/the-billionaire-clusters/)
+* [Stop Using word2vec](http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
 
 **R**
 
