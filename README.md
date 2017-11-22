@@ -107,6 +107,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Making a Raspberry Pi-powered AI to play piano](https://rpiai.com/piano/)
 * [How Machine Learning with TensorFlow Enabled Mobile Proof-Of-Purchase at Coca-Cola](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html)
 * [Reinforcement Learning: An Introduction Richard S. Sutton and Andrew G. Barto](http://www.incompleteideas.net/sutton/book/the-book-1st.html)
+* [Machine Learning FAQs - Sebastian Raschka](https://sebastianraschka.com/faq/index.html)
 
 **Podcast**
 
