@@ -164,6 +164,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [TensorFire - Fast Neural Styling](https://tenso.rs/demos/fast-neural-style/)
 * [Tensorport](https://tensorport.com/)
 * [Semantic Role Labeling - AllenNLP](http://demo.allennlp.org/semantic-role-labeling/OTA3)
+* [Flying Jet - Loading Graphics](https://codepen.io/mr_alien/pen/FDLjg)
 
 
 **Blog**
