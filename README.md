@@ -216,6 +216,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [The Economoy - CORE](http://www.core-econ.org/the-economy/)
 * [VLC maintainer has refused “several tens of millions of Euro”](https://www.reddit.com/r/bestof/comments/73dafr/vlc_creator_refused_several_tens_of_millions_of/)
 * [Awesome Blockchains - Github](https://github.com/openblockchains/awesome-blockchains)
+* [The Jargon File](http://www.catb.org/jargon/html/)
 
 **Cricket/Sports**
 
