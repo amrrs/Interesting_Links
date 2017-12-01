@@ -119,6 +119,7 @@ Collection of Random Links that I am not sure If I'd find again
 **HBR**
 
 * [The Business of Artificial Intelligence](https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence)
+* [Linear Thinking in a Nonlinear World](https://hbr.org/2017/05/linear-thinking-in-a-nonlinear-world)
 
 **Nautilus**
 
