@@ -112,6 +112,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Reinforcement Learning: An Introduction Richard S. Sutton and Andrew G. Barto](http://www.incompleteideas.net/sutton/book/the-book-1st.html)
 * [Machine Learning FAQs - Sebastian Raschka](https://sebastianraschka.com/faq/index.html)
 * [A Year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
+* [MAKING A SNAPCHAT-LIKE FACE MASK in R](http://giorasimchoni.com/2017/12/04/2017-12-04-snap-fu/)
 
 **Podcast**
 
