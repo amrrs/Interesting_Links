@@ -68,6 +68,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Word Vectors with Tidy Data Principle](https://juliasilge.com/blog/tidy-word-vectors/)
 * [GGPLOT2 - R Graph Gallery](http://www.r-graph-gallery.com/portfolio/ggplot2-package/)
 * [R Course - STAT 545](http://stat545.com/index.html)
+* [Reproducible Data Science with R - Slideshare](https://www.slideshare.net/RevolutionAnalytics/reproducible-data-science-with-r)
 
 
 **Python**
@@ -79,6 +80,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Python Graph Gallery](https://python-graph-gallery.com/)
 * http://iamtrask.github.io/2015/07/12/basic-python-network/
 * [Pandas - Comparison with R / R libraries](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
+
 
 **Data**   
 
