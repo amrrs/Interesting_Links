@@ -115,6 +115,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Machine Learning FAQs - Sebastian Raschka](https://sebastianraschka.com/faq/index.html)
 * [A Year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
 * [MAKING A SNAPCHAT-LIKE FACE MASK in R](http://giorasimchoni.com/2017/12/04/2017-12-04-snap-fu/)
+* [FastAI DeepLearning Materials](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/resources.md)
 
 **Podcast**
 
