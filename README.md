@@ -193,6 +193,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/
 * http://thinkingcomplete.blogspot.in/2017/09/what-have-been-greatest-intellectual.html?m=1
 * [Lego Topic Models](http://nateaff.com/2017/09/11/lego-topic-models/)
+* [A beginners guide to getting started in the cryptocurrency world](https://blog.goodaudience.com/a-beginners-guide-to-getting-started-in-the-cryptocurrency-world-69c50516be71)
 
 **Courses**
 
