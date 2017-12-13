@@ -162,6 +162,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Memories of a Theoretical Physicist](https://arxiv.org/pdf/1708.09093.pdf)
 * [Growing a Language - Guy Steele](http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf)
 * [Charlie Munger – The Psychology of Human Misjudgment ](http://fermatslibrary.com/s/the-psychology-of-human-misdgugement)
+* [NIPS 2017 Notes - David Abel](https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf)
 
 **Tools/Scripts**
 
