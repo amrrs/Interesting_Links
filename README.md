@@ -150,7 +150,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [[Resources] Reading short stories - Deepak Mehta - Quora](https://readersparadise.quora.com/Resources-Reading-short-stories)
 * [If Free Code Camp is free, and Quincy Larson works 100% on Free Code Camp, then how does he support himself and his family?](https://www.quora.com/If-Free-Code-Camp-is-free-and-Quincy-Larson-works-100-on-Free-Code-Camp-then-how-does-he-support-himself-and-his-family)
 
-**Papers/PDFs**
+**Books/Papers/PDFs**
 
 * [A systematic comparison of
 context-counting vs. context-predicting semantic vectors](http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf)
@@ -163,6 +163,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Growing a Language - Guy Steele](http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf)
 * [Charlie Munger – The Psychology of Human Misjudgment ](http://fermatslibrary.com/s/the-psychology-of-human-misdgugement)
 * [NIPS 2017 Notes - David Abel](https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf)
+* [Osborne and Rubinstein's text on Game Theory - Book](http://arielrubinstein.tau.ac.il/books.html)
 
 **Tools/Scripts**
 
