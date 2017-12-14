@@ -55,6 +55,7 @@ Collection of Random Links that I am not sure If I'd find again
 * https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/
 * [A DATA DRIVEN GUIDE TO BECOMING A CONSISTENT BILLIONAIRE](https://theartandscienceofdata.wordpress.com/2017/06/01/the-billionaire-clusters/)
 * [Stop Using word2vec](http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
+* [Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to - Googler](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?slide=id.g168a3288f7_0_58)
 
 **R**
 
