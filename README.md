@@ -24,6 +24,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [A New Way to Learn Economics](https://news.ycombinator.com/item?id=15222819)
 * [Does anyone remember websites?](https://news.ycombinator.com/item?id=15631565)
 * [Mathematical games interesting to both you and a five-year-old child](https://news.ycombinator.com/item?id=15407761)
+* [Game Theory: Open Access textbook](https://news.ycombinator.com/item?id=15914074)
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
