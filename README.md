@@ -83,7 +83,6 @@ Collection of Random Links that I am not sure If I'd find again
 * [Python Graph Gallery](https://python-graph-gallery.com/)
 * http://iamtrask.github.io/2015/07/12/basic-python-network/
 * [Pandas - Comparison with R / R libraries](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
-* [Keras and deep learning on the Raspberry Pi](https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/)
 
 
 **Data**   
@@ -120,6 +119,8 @@ Collection of Random Links that I am not sure If I'd find again
 * [A Year in Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
 * [MAKING A SNAPCHAT-LIKE FACE MASK in R](http://giorasimchoni.com/2017/12/04/2017-12-04-snap-fu/)
 * [FastAI DeepLearning Materials](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/resources.md)
+* [Keras and deep learning on the Raspberry Pi](https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/)
+* [Building a Poor Man’s Deep Learning Camera in Python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
 
 **Podcast**
 
