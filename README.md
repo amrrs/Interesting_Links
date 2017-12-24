@@ -123,6 +123,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [FastAI DeepLearning Materials](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/resources.md)
 * [Keras and deep learning on the Raspberry Pi](https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/)
 * [Building a Poor Man’s Deep Learning Camera in Python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
+* [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 
 **Podcast**
 
