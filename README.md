@@ -26,6 +26,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Does anyone remember websites?](https://news.ycombinator.com/item?id=15631565)
 * [Mathematical games interesting to both you and a five-year-old child](https://news.ycombinator.com/item?id=15407761)
 * [Game Theory: Open Access textbook](https://news.ycombinator.com/item?id=15914074)
+* [How I went from Programming to Consulting (2012)](https://news.ycombinator.com/item?id=15994410)
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
@@ -231,6 +232,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [VLC maintainer has refused “several tens of millions of Euro”](https://www.reddit.com/r/bestof/comments/73dafr/vlc_creator_refused_several_tens_of_millions_of/)
 * [Awesome Blockchains - Github](https://github.com/openblockchains/awesome-blockchains)
 * [The Jargon File](http://www.catb.org/jargon/html/)
+* [How I went from programming to consulting (2012)](https://training.kalzumeus.com/newsletters/archive/consulting_1)
 
 **Cricket/Sports**
 
