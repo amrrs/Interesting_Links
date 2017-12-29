@@ -27,6 +27,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Mathematical games interesting to both you and a five-year-old child](https://news.ycombinator.com/item?id=15407761)
 * [Game Theory: Open Access textbook](https://news.ycombinator.com/item?id=15914074)
 * [How I went from Programming to Consulting (2012)](https://news.ycombinator.com/item?id=15994410)
+* [Effective Engineer – Notes (github.com)](https://news.ycombinator.com/item?id=16022916)
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
