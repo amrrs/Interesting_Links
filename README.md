@@ -28,10 +28,12 @@ Collection of Random Links that I am not sure If I'd find again
 * [Game Theory: Open Access textbook](https://news.ycombinator.com/item?id=15914074)
 * [How I went from Programming to Consulting (2012)](https://news.ycombinator.com/item?id=15994410)
 * [Effective Engineer – Notes (github.com)](https://news.ycombinator.com/item?id=16022916)
+* [My YC app: Dropbox - Throw away your USB drive (getdropbox.com)](https://news.ycombinator.com/item?id=8863)
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
 * (https://news.ycombinator.com/user?id=gwern) - Bitcoin is worse is better 
+* (https://news.ycombinator.com/user?id=nostrademons) - Drew Houston ~ Dropbox ~ Gaming Startup ~ Wrong Ideas
 
 **ML**
 
