@@ -208,6 +208,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * http://thinkingcomplete.blogspot.in/2017/09/what-have-been-greatest-intellectual.html?m=1
 * [Lego Topic Models](http://nateaff.com/2017/09/11/lego-topic-models/)
 * [A beginners guide to getting started in the cryptocurrency world](https://blog.goodaudience.com/a-beginners-guide-to-getting-started-in-the-cryptocurrency-world-69c50516be71)
+* [Bitcoin and the Double-Spending Problem - Cornell EDU](http://blogs.cornell.edu/info4220/2013/03/29/bitcoin-and-the-double-spending-problem/)
 
 **Courses**
 
