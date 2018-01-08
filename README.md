@@ -216,6 +216,10 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [Introduction, Regression/Classification, Cost Functions, and Gradient Descent - ML Berkeley Crash Course Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 
+**Videos**
+
+* [HDR Photography in Microsoft Excel (2017)](https://www.youtube.com/watch?v=bkQJdaGGVM8)
+
 
 **sdfljsdlfjlkdsjf - Figuring out the Category**
 
