@@ -89,6 +89,7 @@ Collection of Random Links that I am not sure If I'd find again
 * http://iamtrask.github.io/2015/07/12/basic-python-network/
 * [Pandas - Comparison with R / R libraries](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
 * [Advanced Numpy Techniques](http://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb?flush_cache=true)
+* [Document Clustering with Python](http://brandonrose.org/clustering)
 
 
 **Data**   
