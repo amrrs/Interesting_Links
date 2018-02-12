@@ -21,6 +21,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: Books on specific topics that have applied to many areas of your life?](https://news.ycombinator.com/item?id=15761599)
 * [Ask HN: What are best tools for web scraping?](https://news.ycombinator.com/item?id=15694118)
 * [Ask HN: What did you work on in 2017?](https://news.ycombinator.com/item?id=16041245)
+* [Ask HN: What are the books you wish your colleagues had read?](https://news.ycombinator.com/item?id=16351310)
 
 **Nice Discussions**
 * [A New Way to Learn Economics](https://news.ycombinator.com/item?id=15222819)
