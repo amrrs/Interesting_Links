@@ -31,6 +31,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [How I went from Programming to Consulting (2012)](https://news.ycombinator.com/item?id=15994410)
 * [Effective Engineer – Notes (github.com)](https://news.ycombinator.com/item?id=16022916)
 * [My YC app: Dropbox - Throw away your USB drive (getdropbox.com)](https://news.ycombinator.com/item?id=8863)
+* [Hadley Wickam - Reddit AMA](https://www.reddit.com/r/dataisbeautiful/comments/3mp9r7/im_hadley_wickham_chief_scientist_at_rstudio_and/)
 
 **HN Profiles**
 * (https://news.ycombinator.com/user?id=mike_hearn) - Bitcoin 
