@@ -131,6 +131,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Keras and deep learning on the Raspberry Pi](https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/)
 * [Building a Poor Man’s Deep Learning Camera in Python](https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/)
 * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
+* [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml)
 
 **Podcast**
 
