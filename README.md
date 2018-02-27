@@ -253,6 +253,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [The Jargon File](http://www.catb.org/jargon/html/)
 * [How I went from programming to consulting (2012)](https://training.kalzumeus.com/newsletters/archive/consulting_1)
 * [Read my booknotes - Latish Sehgal](https://www.readmybooknotes.com/)
+* [Why Do We Sleep Under Blankets, Even on the Hottest Nights?](https://www.atlasobscura.com/articles/blankets-summer-hot)
 
 **Cricket/Sports**
 
