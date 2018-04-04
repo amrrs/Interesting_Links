@@ -25,6 +25,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: What has HN given you?](https://news.ycombinator.com/item?id=16409768)
 * [Ask HN: As a data scientist, what should be in my toolkit in 2018?](https://news.ycombinator.com/item?id=16418546)
 * [Ask HN: How do you teach you kids about computers and coding?](https://news.ycombinator.com/item?id=16464909)
+* [Ask HN: What are the best MOOCs you've taken?](https://news.ycombinator.com/item?id=16745042)
 
 **Nice Discussions**
 * [A New Way to Learn Economics](https://news.ycombinator.com/item?id=15222819)
