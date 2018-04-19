@@ -189,6 +189,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [Charlie Munger – The Psychology of Human Misjudgment ](http://fermatslibrary.com/s/the-psychology-of-human-misdgugement)
 * [NIPS 2017 Notes - David Abel](https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf)
 * [Osborne and Rubinstein's text on Game Theory - Book](http://arielrubinstein.tau.ac.il/books.html)
+* [On the shortness of life - Seneca](https://tripinsurancestore.com/4/on-the-shortness-of-life.pdf)
 
 **Tools/Scripts**
 
