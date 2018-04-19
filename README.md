@@ -261,6 +261,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [How I went from programming to consulting (2012)](https://training.kalzumeus.com/newsletters/archive/consulting_1)
 * [Read my booknotes - Latish Sehgal](https://www.readmybooknotes.com/)
 * [Why Do We Sleep Under Blankets, Even on the Hottest Nights?](https://www.atlasobscura.com/articles/blankets-summer-hot)
+* [Jeff Bezos' annual shareholders letter  - 2018](https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm)
 
 **Cricket/Sports**
 
