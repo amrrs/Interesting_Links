@@ -69,6 +69,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to - Googler](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?slide=id.g168a3288f7_0_58)
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Seeing Theory – A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html#firstPage)
+* [Data science Blogs](https://www.cybrhome.com/topic/data-science-blogs)
 
 **R**
 
