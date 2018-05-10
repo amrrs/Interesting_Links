@@ -88,7 +88,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Reproducible Data Science with R - Slideshare](https://www.slideshare.net/RevolutionAnalytics/reproducible-data-science-with-r)
 * [R resources (free courses, books, tutorials, & cheat sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
 * [UC Business Analytics R Programming Guide](https://uc-r.github.io/)
-
+* [Twitter data and R - Venn Diagram of Common Followers](http://quantixed.org/2018/05/05/im-not-following-you-ii-twitter-data-and-r/)
 
 **Python**
 
