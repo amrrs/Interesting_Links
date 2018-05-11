@@ -228,6 +228,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [Bitcoin and the Double-Spending Problem - Cornell EDU](http://blogs.cornell.edu/info4220/2013/03/29/bitcoin-and-the-double-spending-problem/)
 * [Cheap or Free Static Website Hosting - Scott Murray](http://alignedleft.com/resources/cheap-web-hosting)
 * [Dumber Phone](https://nomasters.io/posts/dumber-phone/)
+* [Google Yolo - Cross Site Scripting Hidden Iframe vulnerability - XSS Jigsaw](https://blog.innerht.ml/google-yolo/)
 
 **Courses**
 
