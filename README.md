@@ -228,6 +228,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [Cheap or Free Static Website Hosting - Scott Murray](http://alignedleft.com/resources/cheap-web-hosting)
 * [Dumber Phone](https://nomasters.io/posts/dumber-phone/)
 * [Google Yolo - Cross Site Scripting Hidden Iframe vulnerability - XSS Jigsaw](https://blog.innerht.ml/google-yolo/)
+* [Navalism — Quotes & Perceptions by Naval Ravikant](https://medium.com/@noahmadden/navalism-quotes-perceptions-by-naval-ravikant-a5fd60ac5788)
 
 **Courses**
 
