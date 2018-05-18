@@ -147,6 +147,7 @@ Collection of Random Links that I am not sure If I'd find again
 **Podcast**
 
 * [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
+* [The Knowledge Project - Farnam Street](https://www.fs.blog/2017/02/naval-ravikant-reading-decision-making/)
 
 **HBR**
 
