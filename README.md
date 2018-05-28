@@ -143,6 +143,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Learning Deep Learning with Keras](http://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 * [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml)
 * [Curated, Pre-trained ML Models for Transfer Learning - ModelDepot](https://modeldepot.io/)
+* [Dissecting Reinforcement Learning-Part.1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 
 **Podcast**
 
