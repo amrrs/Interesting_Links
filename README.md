@@ -197,6 +197,7 @@ Cases, Fusion and Evaluation](http://liacs.leidenuniv.nl/~puttenpwhvander/librar
 * [On the shortness of life - Seneca](https://tripinsurancestore.com/4/on-the-shortness-of-life.pdf)
 * [Why do Nigerian Scammers Say They are from Nigeria?](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WhyFromNigeria.pdf)
 * [Teach Yourself Scheme in Fixnum Days  - Dorai Sitaram](https://ds26gte.github.io/tyscheme/)
+* [eBooks@Adelaide - Free eBooks Online](https://ebooks.adelaide.edu.au/)
 
 **Tools/Scripts**
 
