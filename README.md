@@ -146,6 +146,10 @@ Collection of Random Links that I am not sure If I'd find again
 * [Curated, Pre-trained ML Models for Transfer Learning - ModelDepot](https://modeldepot.io/)
 * [Dissecting Reinforcement Learning-Part.1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 
+**Visualization**
+
+* [INTRO TO D3.JS - Square](http://square.github.io/intro-to-d3/)
+
 **Podcast**
 
 * [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
