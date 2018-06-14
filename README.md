@@ -71,6 +71,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Seeing Theory – A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html#firstPage)
 * [Data science Blogs](https://www.cybrhome.com/topic/data-science-blogs)
+* [Real Statistics Examples Workbooks](http://www.real-statistics.com/free-download/real-statistics-examples-workbook/)
 
 **R**
 
