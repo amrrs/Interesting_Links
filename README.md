@@ -72,6 +72,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Seeing Theory – A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/index.html#firstPage)
 * [Data science Blogs](https://www.cybrhome.com/topic/data-science-blogs)
 * [Real Statistics Examples Workbooks](http://www.real-statistics.com/free-download/real-statistics-examples-workbook/)
+* [**Jason's Machine Learning 101 - Google - liked by Kaggle**](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58)
 
 **R**
 
