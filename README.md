@@ -93,6 +93,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [UC Business Analytics R Programming Guide](https://uc-r.github.io/)
 * [Twitter data and R - Venn Diagram of Common Followers](http://quantixed.org/2018/05/05/im-not-following-you-ii-twitter-data-and-r/)
 * [Building Widgets](http://www.buildingwidgets.com)
+* [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
 **Python**
 
