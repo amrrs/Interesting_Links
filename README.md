@@ -256,7 +256,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [HDR Photography in Microsoft Excel (2017)](https://www.youtube.com/watch?v=bkQJdaGGVM8)
 
 
-**sdfljsdlfjlkdsjf - Figuring out the Category**
+**fjlkdsjf - Figuring out the Category**
 
 * [Calling BullShit](http://callingbullshit.org/videos.html)
 * [The Problem of Induction](https://en.wikipedia.org/wiki/Problem_of_induction)
