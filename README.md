@@ -98,6 +98,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [How to self-publish a book: A handy list of resources](https://blog.datascienceheroes.com/how-to-self-publish-a-book/)
 * [Tips for Lightning Talks](https://www.r-bloggers.com/tips-for-lightning-talks/)
 * [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
+* [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate)
 
 **Python**
 
