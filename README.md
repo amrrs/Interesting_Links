@@ -28,6 +28,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: What are the best MOOCs you've taken?](https://news.ycombinator.com/item?id=16745042)
 * [Ask HN: What's one book that changed your life?](https://news.ycombinator.com/item?id=17168136)
 * [Ask HN: Favorite teachers on YouTube?](https://news.ycombinator.com/item?id=17999659)
+* [Ask HN: Did any Show HN posts turn into successful startups?](https://news.ycombinator.com/item?id=18030355)
 
 **Nice Discussions**
 * [A New Way to Learn Economics](https://news.ycombinator.com/item?id=15222819)
