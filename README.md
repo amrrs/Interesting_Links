@@ -103,6 +103,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
 * [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate)
 * [Code for Workshop: Introduction to Machine Learning with R - Shirin](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
+* [GeoSpatial Data Visualization in R - Bhaskar VK](https://bhaskarvk.github.io/user2017.geodataviz/)
 
 **Python**
 
