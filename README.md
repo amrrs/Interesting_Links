@@ -164,6 +164,7 @@ Collection of Random Links that I am not sure If I'd find again
 **Visualization**
 
 * [INTRO TO D3.JS - Square](http://square.github.io/intro-to-d3/)
+* [Spurious Correlations](http://tylervigen.com/spurious-correlations)
 
 **Podcast**
 
