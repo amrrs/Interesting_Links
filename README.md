@@ -165,6 +165,7 @@ Collection of Random Links that I am not sure If I'd find again
 
 * [INTRO TO D3.JS - Square](http://square.github.io/intro-to-d3/)
 * [Spurious Correlations](http://tylervigen.com/spurious-correlations)
+* [Lean UX workshop @ Makers of Barcelona (MOB) + Agile BCN Meetup ](https://www.slideshare.net/harriken/lean-ux-workshop-makers-of-barcelona-mob-agile-bcn-meetup)
 
 **Podcast**
 
