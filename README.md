@@ -78,6 +78,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Real Statistics Examples Workbooks](http://www.real-statistics.com/free-download/real-statistics-examples-workbook/)
 * [**Jason's Machine Learning 101 - Google - liked by Kaggle**](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58)
 
+
 **R**
 
 * [Deploying Desktop Apps with R](https://oddhypothesis.blogspot.it/2016/04/desktop-deployr.html)
@@ -160,6 +161,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Curated, Pre-trained ML Models for Transfer Learning - ModelDepot](https://modeldepot.io/)
 * [Dissecting Reinforcement Learning-Part.1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 * [UC Berkeley CS188 Intro to AI -- Course Materials](http://ai.berkeley.edu/lecture_videos.html)
+* [Real time numbers recognition (MNIST) on an iPhone with CoreML from A to Z](https://www.liip.ch/en/blog/numbers-recognition-mnist-on-an-iphone-with-coreml-from-a-to-z)
 
 **Visualization**
 
