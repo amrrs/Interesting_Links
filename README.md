@@ -298,6 +298,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [Jeff Bezos' annual shareholders letter  - 2018](https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm)
 * [A curated list of product management advice for technical people - github ](https://github.com/tron1991/open-product-management)
 * [On the Origin of Certain Quotable 'African Proverbs'](https://jezebel.com/on-the-origin-of-certain-quotable-african-proverbs-1766664089)
+* [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 **Cricket/Sports**
 
