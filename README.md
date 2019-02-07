@@ -299,6 +299,7 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 * [A curated list of product management advice for technical people - github ](https://github.com/tron1991/open-product-management)
 * [On the Origin of Certain Quotable 'African Proverbs'](https://jezebel.com/on-the-origin-of-certain-quotable-african-proverbs-1766664089)
 * [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
+* [	My disabled son Mats – ‘the nobleman, the philanderer, the detective’ ](https://www.bbc.com/news/disability-47064773)
 
 **Cricket/Sports**
 
