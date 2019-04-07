@@ -105,6 +105,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate)
 * [Code for Workshop: Introduction to Machine Learning with R - Shirin](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 * [GeoSpatial Data Visualization in R - Bhaskar VK](https://bhaskarvk.github.io/user2017.geodataviz/)
+* [How to Create a Bar Chart Race in R - Mapping United States City Population 1790-2010](https://michaeltoth.me/how-to-create-a-bar-chart-race-in-r-mapping-united-states-city-population-1790-2010.html)
 
 **Python**
 
