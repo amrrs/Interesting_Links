@@ -31,7 +31,7 @@ Collection of Random Links that I am not sure If I'd find again
 * [Ask HN: Did any Show HN posts turn into successful startups?](https://news.ycombinator.com/item?id=18030355)
 * [Documentaries](https://news.ycombinator.com/item?id=18085765)
 * [Ask HN: What is your best advice for a junior software developer?](https://news.ycombinator.com/item?id=18128477)
-* [Ask HN: What do you do with your Raspberry Pi?(https://news.ycombinator.com/item?id=20264911)
+* [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
 
 **Nice Discussions**
 * [A New Way to Learn Economics](https://news.ycombinator.com/item?id=15222819)
