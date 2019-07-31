@@ -270,7 +270,8 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 **Videos**
 
 * [HDR Photography in Microsoft Excel (2017)](https://www.youtube.com/watch?v=bkQJdaGGVM8)
-+ [David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY) - Slides []()
++ [David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY) - Slides [A ~The~ secret to
+making money online](https://github.com/amrrs/Interesting_Links/blob/master/1281-Startup%2Bschool%2B-%2BThe%2Bsecret%2Bto%2Bmaking%2Bmoney%2Bonline.pdf)
 
 
 **fjlkdsjf - Figuring out the Category**
