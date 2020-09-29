@@ -274,6 +274,9 @@ and The Triumph of Hope over Experience ](http://www.kauffman.org/what-we-do/res
 + [David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY) - Slides [A ~The~ secret to
 making money online](https://github.com/amrrs/Interesting_Links/blob/master/1281-Startup%2Bschool%2B-%2BThe%2Bsecret%2Bto%2Bmaking%2Bmoney%2Bonline.pdf)
 
+**Career**
+
+* [How to Get Promoted - HN Thread](https://news.ycombinator.com/item?id=24618707)
 
 **fjlkdsjf - Figuring out the Category**
 
@@ -306,6 +309,7 @@ making money online](https://github.com/amrrs/Interesting_Links/blob/master/1281
 * [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
 * [	My disabled son Mats – ‘the nobleman, the philanderer, the detective’ ](https://www.bbc.com/news/disability-47064773)
 * [A compendium of Q&A sessions with Warren Buffett & Charlie Munger](http://buffettfaq.com/)
+
 
 **Cricket/Sports**
 
